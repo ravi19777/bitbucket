@@ -21,8 +21,6 @@ const DesktopMenu = ({setShowMenu}) =>
         )
     };
 
-    // console.log(categoriesFinalData[0]);
-
     const fewerElement = categoriesFinalData[0];
 
     const moreElement = categoriesFinalData[1];
