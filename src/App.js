@@ -11,8 +11,6 @@ const App = () =>
 
     const connectionStatus = useConnection();
 
-    console.log(connectionStatus);
-
     if(!connectionStatus)
     {
         return(
